@@ -1,6 +1,10 @@
-Presentations gave by me.
+# Presentations
 
-They are written in markdown using:
+This repo contains presentations gave by me written in markdown.
+
+* [Hack The Box Netherlands Meetup - Chapter IV: We start on the Journey](./meetup_nl_20200617_starting)
+
+The slides are powered by using:
 
 - [revealmd](https://github.com/webpro/reveal-md)
 - [revealjs](https://revealjs.com/)
@@ -16,3 +20,5 @@ Later on, you can check it by opening in a browsing going to:
 ```console
 http://localhost:1948/meetup_nl_we_start_on_the_journey.md#/
 ```
+
+
