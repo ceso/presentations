@@ -12,7 +12,7 @@ The slides are powered by using:
 To run it locally, clone the repo or the directory of one presentation and run for example:
 
 ```console
-docker run --rm -p 1948:1948 -v :meetup_nl_20200617_starting/slides webpronl/reveal-md:latest
+docker run --rm -p 1948:1948 -v meetup_nl_20200617_starting/slides webpronl/reveal-md:latest
 ```
 
 Later on, you can check it by opening in a browsing going to:
