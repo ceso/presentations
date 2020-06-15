@@ -47,12 +47,12 @@ Leandro (aka ceso)
 
 ### Core concepts
 
-<section data-background-image="./images/core_concepts.jpg" data-background-size="18%" data-background-position="95% 95%" </section>
+<section data-background-image="./images/core_concepts.jpg" data-background-size="17%" data-background-position="95% 95%" </section>
 
 - Linux: users, groups, basic permissions, special permissions (SUID, SGID, Sticky Bit), process
 - Networking: basic subnetting (IP), TCP/UDP, 3-way handshake, short description of DNS, HTTP (error codes, headers)
 
-<!--v-->
+<!--s-->
 
 ### Linux
 
@@ -176,7 +176,8 @@ blog.example.com is associated as well with the IP 10.10.10.10
 
 ### HTTP Headers
 
-<section data-background-image="./images/http_headers.png" data-background-size="27%" data-background-position="50% 65%" </section>
+<img src="./images/http_header_request.png"  position="center" style="border-radius: 10px;">
+<img src="./images/http_header_response.png"  position="center" style="border-radius: 12px;">
 
 <!--s-->
 
@@ -187,7 +188,6 @@ blog.example.com is associated as well with the IP 10.10.10.10
 - Redirects (300–399)
 - Client errors (400–499)
 - Server errors (500–599)
-
 
 <!--s-->
 
